@@ -1,2 +1,2 @@
-# Theme-your-samsung-bootloader
-Bored with Samsung's default theme? You've come to the right place. 
+# Theme Your Samsung Bootloader
+Bored with Samsung's default bootloader theme? You've come to the right place. 
